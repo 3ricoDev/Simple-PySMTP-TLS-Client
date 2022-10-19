@@ -23,6 +23,7 @@ Simple SMTP client in Python with TLS support
 ## TO_DO <p>
 * Allign the input boxes close to the text <br>
 * Set the 'Mail_Body" input box to use multiple lines <br>
+* Fields Input Control / Error handling
 <p>
 
 :wq!
