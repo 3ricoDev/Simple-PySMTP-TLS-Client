@@ -1,8 +1,8 @@
 # Simple-PySMTP-TLS-Client
 Simple SMTP client in Python with TLS support
 
-1 - Uses PySimpleGui to get: \n
-  smtp_server    SMTP Server to use \n
+1 - Uses PySimpleGui to get: <p>
+  smtp_server    SMTP Server to use <br>
   smtp_port      TLS Port (usually 587)
   smtp_user      User mail account
   smtp_passwd    User's password
